@@ -1,16 +1,17 @@
-# Мій Репозиторій з Сертифікатами
+# My Certificate Repository
 
-У цьому репозиторії, я зберігаютиму свої сертифікати з різних навчальних платформ.
+In this repository, I store my certificates from different learning platforms.
+The certificates are also posted on my [LinkedIn](https://www.linkedin.com/in/tokenrr/)
 
-## Про Мене
+## About Me
 
-Мене звуть Микита, і я вивчаю різні речі на різних онлайн-платформах. Для деяких курсів створені окремі репозиторії з кодом програми або результатами тестувань.
+My name is Nick and I study math, analytics, and data science on online educational platforms.  
+Some courses have separate repositories with program code or test results.
 
-## Основні Платформи
+## Main Platforms
 
 - [Coursera](https://www.coursera.org/)
 - [Stepik](https://stepik.org/)
-- [Prometheus](https://prometheus.org.ua)
 
-Я завжди відкритий до спілкування і поділу досвіду !
-Мої контакти Ви можете знайти у на головній сторінці мого профілю.
+I am always open to communication and sharing of experience!
+You can find my contacts on the main page of my profile.
